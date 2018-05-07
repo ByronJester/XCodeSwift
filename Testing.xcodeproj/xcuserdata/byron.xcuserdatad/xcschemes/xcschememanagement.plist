@@ -7,7 +7,25 @@
 		<key>Testing.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>2</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>91766EC220635DB800AD1694</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>91766ED620635DB900AD1694</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>91766EE120635DB900AD1694</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
